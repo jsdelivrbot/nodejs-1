@@ -36,5 +36,9 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
 
+<<<<<<< HEAD
 # adding the line for reference.
+=======
+# adding the test line for reference
+>>>>>>> 0ff82ca6bd39c8a2f2d71369da46a0857b4d77b0
 
